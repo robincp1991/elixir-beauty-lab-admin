@@ -16,7 +16,6 @@ class Price extends Model
         'service_id',
         'description',
         'benefits',
-        'image',
         'price',
         'duration',
         'active',
